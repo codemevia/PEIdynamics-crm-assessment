@@ -16,7 +16,7 @@ This repository contains my completed assessment for the Dynamics 365 CRM Develo
   - Preventing duplicate contacts based on email
   - Automatically creating child contacts upon account creation
   - Plugin step registration logic
-  - **PEICustomPluginTest/** (inside): Unit test project for the above plugins using MSTest framework.
+  - **PEICustomPluginTest/** (inside): Unit test project for the above plugins.
 
 ### `Web Resources/`
 - JavaScript files used as CRM form customizations.
