@@ -1,0 +1,16 @@
+{
+  "name": "webresoucesunittest",
+  "version": "1.0.0",
+  "main": "PEIOpportunityForm.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.3",
+    "xrm-mock": "^3.6.2"
+  }
+}
